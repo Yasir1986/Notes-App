@@ -9,6 +9,14 @@ Follow the steps to run this Notes App
 
 3)node app.js add(to add note) --title="your titile" --body="your body" or node app.js remove(to remove note) --title="your title" -- body="your body" 
   or node app.js list(to see all lists of nodes) or node app.js read(to read a specific note) --title="your title" 
+  
+  OR
+  
+  Live deploy link:
+  
+  (made in pure JS,html and Css, not above terminal app but similar)
+  
+  spectacular-debt.surge.sh
 
 
 
